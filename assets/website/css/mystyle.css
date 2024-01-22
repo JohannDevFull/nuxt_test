@@ -1,0 +1,40 @@
+.logo-fm{
+  all: unset;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+.llp{
+  margin-left: -4px;
+  position: relative;
+  top: 0px;
+}
+.yoi{
+  margin-left: 5px;
+  position: relative;
+  top: -2px;
+}
+.ii{
+  margin-left: 4px;
+  position: relative;
+  top: 2px;
+  color: black;
+}
+
+.dark-logo-fm{
+  all: unset;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+.dark-yoi{
+  margin-left: 5px;
+  position: relative;
+  top: -3px;
+}
+.dark-ii{
+  margin-left: 7px;
+  position: relative;
+  top: 2px;
+  color: white;
+}
